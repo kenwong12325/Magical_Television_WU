@@ -1,4 +1,4 @@
-![image](https://github.com/kenwong12325/Magical_Television_WU/assets/38183418/b441aebb-f321-46ed-a89b-bd1f68a2c5f7)# Magical_Television_WU
+# Magical_Television_WU
 firebirdCTF 2024 Magical Television writeup 
 
 First of all in sipred by the video of https://www.youtube.com/watch?v=RLuGJGyCS90
